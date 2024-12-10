@@ -85,6 +85,10 @@ assign df=w1^bin;
 assign bo=w2|w3;
 endmodule
 ```
+Developed by:T K Shrivimal
+
+RegisterNumber: 24003314
+
 **RTL Schematic**
 
 ![fa4](https://github.com/user-attachments/assets/fdcd4b8d-5ad2-4463-9bae-dbd05b41e95b)
